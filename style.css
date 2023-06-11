@@ -1,0 +1,68 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css");
+  
+ 
+
+
+.reel{
+    width: 300px;
+    margin: 60px auto;
+    background-color: rgb(9, 10, 10);
+    color: white;
+    
+}
+.profile{
+    border: solid 2px red;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    
+}
+.profile-name{
+    display: flex;
+    align-items: center;
+}
+.name{
+    margin-left: 15px;
+}
+.dots-profile-name{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.bi-three-dots{
+    font-size: large;
+    margin-right: 14px;
+    font-weight: bolder;
+}
+.videos{
+    width: 100%;
+    height: auto;
+   
+}
+
+.bi-heart{
+    font-weight: bolder; 
+    margin: 5px 0px; 
+    margin-left: 3px;
+    
+}
+.bi-telegram{
+    font-weight: bolder; 
+    margin: 5px 0px;
+    margin-left: 3px;
+    
+}
+.bi-chat{
+    font-weight: bolder; 
+    margin: 5px 0px;
+    margin-left: 3px;  
+}
+.symbols{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.bi-bookmark{
+    margin-right: 3px;
+}
